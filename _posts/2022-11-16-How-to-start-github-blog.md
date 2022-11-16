@@ -20,15 +20,15 @@ last_modified_at: 2022-11-16
 
 - `git` 설치
 - `ruby` 설치
- 1. [Downloads] (https://rubyinstaller.org/)
+ 1. [Downloads](https://rubyinstaller.org/)
  1. `WITH DEVKIT` 에 있는 `(x86)` 중 마음에 드는 것을 다운 받는다.
-  img: ":ruby 1.png"
+  ![ruby 1](https://user-images.githubusercontent.com/117553252/202195331-b0fea8c8-4e8c-4c17-92f0-3169cd6fc377.png){: width=”50%“ height=”50%“}{: .center}
  1. 둘 다 체크
-  img: ":ruby 2.png"
+  ":ruby 2.png"
  1. 마지막에 체크하여 Ruby를 실행시켜 준다.
-  img: ":ruby 3.png"
+  ":ruby 3.png"
  1. 이 화면이 나오면 `1,2,3` 을 입력하고 Enter 한다.
-  img: ":ruby 4.png"
+  ":ruby 4.png"
 - `jekyll` 설치
 
 가 필요하다.
