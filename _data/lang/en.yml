@@ -130,7 +130,7 @@ post-list:
 
 # for home layout
 home:
-  title: Welcome
+  title: 바쁘다 바빠 현대사회
   button_name: Home
   new_posts_title: New Articles
   new_posts_show_more_button: View More ...

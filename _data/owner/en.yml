@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "한계령"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: "Cloud Engineer"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Your Name"
+name: "한계령"
 
 # home page top header texts
 home:
@@ -19,8 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "$site_sample"
-
+  sub_title: "Since 16.Nov.2022"
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
 copyright_start_year: "2022"
