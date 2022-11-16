@@ -18,28 +18,55 @@ last_modified_at: 2022-11-16
 
 ### 00. 시작하기 전에
 
-- `git` 설치
-- `ruby` 설치
- 1. [Downloads](https://rubyinstaller.org/)
- 1. `WITH DEVKIT` 에 있는 `(x86)` 중 마음에 드는 것을 다운 받는다.
+   ```yaml
+   git, ruby, jekyll 설치가 필요하다. 특히 Ruby는 윈도우 필수로 설치해야 됨!
+   ```
+
+자, 그럼 이제 설치 해 보자.
+
+
+#### `git` 설치
+ git은 다 설치가 되어 있을거라 생각하고 pass.
+
+
+
+#### `ruby` 설치
+
+ - [Downloads](https://rubyinstaller.org/)
+
+
+ - `WITH DEVKIT` 에 있는 `(x86)` 중 마음에 드는 것을 다운 받는다.
+
   ![ruby 1](https://user-images.githubusercontent.com/117553252/202195331-b0fea8c8-4e8c-4c17-92f0-3169cd6fc377.png){: width=”50%“ height=”50%“}{: .center}
- 1. 둘 다 체크
+
+
+ - 둘 다 체크
+
   ![ruby 2](https://user-images.githubusercontent.com/117553252/202196131-d7cacdfb-99a4-47af-9608-6ef56eadb233.png){: width=”50%“ height=”50%“}{: .center}
- 1. 마지막에 체크하여 Ruby를 실행시켜 준다.
+
+
+ - 마지막에 체크하여 Ruby를 실행시켜 준다.
+
   ![ruby 3](https://user-images.githubusercontent.com/117553252/202196210-97b269d2-d837-4715-9e7b-3ad6797708c5.png){: width=”50%“ height=”50%“}{: .center}
- 1. 이 화면이 나오면 `1,2,3` 을 입력하고 Enter 한다.
+
+
+ - 이 화면이 나오면 `1,2,3` 을 입력하고 Enter 한다.
+
   ![ruby 4](https://user-images.githubusercontent.com/117553252/202196266-94f34ea2-ada5-44f2-a994-ee31390ab9b4.png){: width=”70%“ height=”70%“}{: .center}
- 1. 윈도우의 cmd 창을 열어 ruby가 잘 설치 됐는지 확인한다.
+
+
+ - 윈도우의 cmd 창을 열어 ruby가 잘 설치 됐는지 확인한다.
  
    ```yaml
    ruby --version
    ```
- ![ruby 5](https://user-images.githubusercontent.com/117553252/202198332-abb2ac3c-967b-420f-b819-c4545c53dcfb.png)
+ ![ruby 5](https://user-images.githubusercontent.com/117553252/202198332-abb2ac3c-967b-420f-b819-c4545c53dcfb.png){: width=”100%“ height=”50%“}{: .center}
 
 
-- `jekyll` 설치
 
-가 필요하다.
+#### `jekyll` 설치
+
+
 
 
 
