@@ -57,18 +57,34 @@ last_modified_at: 2022-11-16
 
  - 윈도우의 cmd 창을 열어 ruby가 잘 설치 됐는지 확인한다.
  
+
    ```yaml
    ruby --version
    ```
+
  ![ruby 5](https://user-images.githubusercontent.com/117553252/202198332-abb2ac3c-967b-420f-b819-c4545c53dcfb.png){: width=”100%“ height=”50%“}{: .center}
 
 
 
 #### `jekyll` 설치
 
+- 윈도우 cmd 창에서 jekyll를 설치한다.
+
+
+    ```yaml
+     gem install jekyll bundle
+    ```
+
+ ![jekyll 1](https://user-images.githubusercontent.com/117553252/202201371-dfd3e491-1150-48ee-ad98-ad21941841b3.png){: width=”100%“ height=”100%“}{: .center}
 
 
 
+- jekyll 가 잘 설치되었는지 cmd에서 확인하자.
 
 
+    ```yaml
+     jekyll -version
+    ```
+
+ ![jekyll 2](https://user-images.githubusercontent.com/117553252/202201887-2e1e3e5b-eb54-446c-bb8a-6412f780efa6.png){: width=”100%“ height=”100%“}{: .center}
 
