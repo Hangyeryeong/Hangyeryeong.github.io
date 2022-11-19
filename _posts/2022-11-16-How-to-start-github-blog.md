@@ -93,3 +93,49 @@ last_modified_at: 2022-11-16
 
  ![jekyll 2](https://user-images.githubusercontent.com/117553252/202201887-2e1e3e5b-eb54-446c-bb8a-6412f780efa6.png){: width=”100%“ height=”100%“}{: .center}
 
+
+
+
+
+### 01. Repository 만들기.
+
+- New respository를 눌러 새 Respository를 만든다.
+
+-Respository name 은 본인의아이디.github.io 형식으로 적는다.
+
+- Public, Add a README file 을 체크하고 Create 를 누르면 끝!
+
+### 02. Clone 해 주자.
+
+- 윈도우 cmd 창을 열어 git clone HTTPS주소 를 적는다.
+
+### 03. index.html 파일을 생성하자.
+
+- 윈도우 cmd 창을 열어 우선 자신의 깃허브 블로그 파일로 이동한다.
+cd 자신의블로그아이디.github.io
+
+- echo 명령어를 사용하여 파일을 생성하자.
+echo "Hello World" > index.html
+
+- 해당 폴더에 들어가서 파일이 생성 되었는 지 확인한다.
+
+### 04. 업로드 하기.
+
+- 윈도우 cmd 창에서(자신의 깃허브 블로그 파일에서) 업로드를 해 준다.
+다음과 같이 명령어를 치면 된다.
+
+- git add *
+- git commit -m "start page"
+- git push -u origin main
+
+- 이때, commit 명령어를 쳤는데 git config 하라고 나오면 그대로 해주면 된다.
+- 나의 경우,
+git config --global user.email "https.sooe13@gmail.com"
+git config --global user.name "Hangyeryeong"
+- config 하고 그 다음에 다시 commit부터 하면 순서대로 하면 된다.
+
+### 05. 확인하기.
+
+- 본인의 깃허브 블로그 주소에 들어가보자.
+
+- 그럼 페이지가 생성이 되었을 것이다.
