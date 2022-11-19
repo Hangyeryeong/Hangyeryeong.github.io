@@ -137,5 +137,5 @@ git config --global user.name "Hangyeryeong"
 ### 05. 확인하기.
 
 - 본인의 깃허브 블로그 주소에 들어가보자.
-
+Hangyeryeong.github.io
 - 그럼 페이지가 생성이 되었을 것이다.
