@@ -9,9 +9,13 @@ use_cdn_resources_if_available: true
 ###########################################################
 # if you want to load in css, change to false. (true is recommended(faster))
 google_font_load_in_head: true
-google_font_style_url: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap
-google_font_precon_url: https://fonts.gstatic.com
+#google_font_style_url: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap
+#google_font_precon_url: https://fonts.gstatic.com
 font-size:150
+
+google_font_style_url: https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500&display=swap
+google_font_precon_url: https://fonts.gstatic.com
+
 
 ###########################################################
 #               Language
