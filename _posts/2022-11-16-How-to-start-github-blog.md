@@ -67,7 +67,7 @@ last_modified_at: 2022-11-16
    ruby --version
    ```
 
- ![ruby 5](https://user-images.githubusercontent.com/117553252/202198332-abb2ac3c-967b-420f-b819-c4545c53dcfb.png){: width=”100%“ height=”100%“}{: .center}
+ ![ruby 5](https://user-images.githubusercontent.com/117553252/202198332-abb2ac3c-967b-420f-b819-c4545c53dcfb.png){: .center}
 
 
 
