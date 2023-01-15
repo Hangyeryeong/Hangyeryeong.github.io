@@ -1,6 +1,5 @@
 ---
 title: "DNS/HTTP(Web) Server (ft.www.x.com)"
-#excerpt: "국비 수업 복습"
 
 #categories:
 # - HRD

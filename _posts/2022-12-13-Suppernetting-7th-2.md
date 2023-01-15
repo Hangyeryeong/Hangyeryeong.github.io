@@ -1,6 +1,5 @@
 ---
 title: "DHCP Server"
-#excerpt: "국비 수업 복습"
 
 #categories:
 # - HRD
