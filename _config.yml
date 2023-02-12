@@ -47,7 +47,7 @@ defaults:
   #     image_viewer_on: true
   #     image_lazy_loader_on: true
 
-  sidebar_main: true
+  
 
 ###########################################################
 # Markdown Options (https://jekyllrb.com/docs/configuration/markdown/)
