@@ -47,6 +47,8 @@ defaults:
   #     image_viewer_on: true
   #     image_lazy_loader_on: true
 
+  sidebar_main: true
+
 ###########################################################
 # Markdown Options (https://jekyllrb.com/docs/configuration/markdown/)
 # Configuring Jekyll in your GitHub Pages site (https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
@@ -121,3 +123,6 @@ sass:
 # Exclude these files or folders from production site
 ###########################################################
 exclude: ["Gemfile*", "README*", "LICENSE", "docs"]
+
+
+
