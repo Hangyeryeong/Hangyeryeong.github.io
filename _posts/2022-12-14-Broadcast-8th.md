@@ -3,7 +3,7 @@ title: "4단계 (Broadcast)"
 
 tags:
  - [Broadcast]
-
+category: L3.IPv4.Routing
 
 toc: true
 toc_sticky: true

@@ -1,8 +1,7 @@
 ---
 title: "DHCP Server"
 
-#categories:
-# - HRD
+category: L3.IPv4.Routing
 tags:
  - [Server]
 

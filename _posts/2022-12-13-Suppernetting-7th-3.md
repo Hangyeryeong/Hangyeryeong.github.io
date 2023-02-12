@@ -4,7 +4,7 @@ title: "DNS/HTTP/DHCP Server, Relay Agent"
 
 tags:
  - [Server]
-
+category: L3.IPv4.Routing
 
 toc: true
 toc_sticky: true

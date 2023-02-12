@@ -3,7 +3,7 @@ title: "Split Horizon 법칙, 해결 3가지 방법"
 
 tags:
  - [Server]
-
+category: L3.IPv4.Routing
 
 toc: true
 toc_sticky: true

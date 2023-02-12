@@ -1,8 +1,7 @@
 ---
 title: "Suppernetting"
 
-#categories:
-# - HRD
+category: L3.IPv4.Routing
 tags:
  - [Subnetting]
 
