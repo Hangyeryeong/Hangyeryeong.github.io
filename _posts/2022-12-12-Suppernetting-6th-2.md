@@ -12,7 +12,7 @@ toc_sticky: true
 date: 2022-12-12
 last_modified_at: 2022-12-12
 
-#img: ":aws 1.png"
+img: ":6일차2.png"
 
 ---
 
