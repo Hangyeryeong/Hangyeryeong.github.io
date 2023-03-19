@@ -32,32 +32,54 @@ last_modified_at: 2023-01-11
 사진첨부
 <br/><br/>
 
-#### 기본 구성.
-<br/><br/>
+#### 기본 구성.<br/>
+
+
+R1)<br/>
+
 ```yaml
-R1)
-    router bgp 100
-    bgp router-id 1.1.1.1
-    neighbor 1.1.12.2 remote-as 100
-    network 1.1.1.0 mask 255.255.255.0
-
-R2)
-    router bgp 100
-    bgp router-id 2.2.2.2
-    neighbor 1.1.12.1 remote-as 100
-    neighbor 1.1.23.3 remote-as 100
-    network 1.1.2.0 mask 255.255.255.0
-
-R3)
-    router bgp 100
-    bgp router-id 1.1.3.3
-    neighbor 1.1.23.2 remote-as 100
-    neighbor 1.1.34.4 remote-as 100
-    network 1.1.3.0 mask 255.255.255.0
-
-R4)
-    router bgp 100
-    bgp router-id 1.1.4.4
-    neighbor 1.1.34.3 remote-as 100
-    network 1.1.4.0 mask 255.255.255.0
+router bgp 100
+bgp router-id 1.1.1.1
+neighbor 1.1.12.2 remote-as 100
+network 1.1.1.0 mask 255.255.255.0
 ```
+<br/><br/>
+
+R2)<br/>
+
+```yaml
+router bgp 100
+bgp router-id 2.2.2.2
+neighbor 1.1.12.1 remote-as 100
+neighbor 1.1.23.3 remote-as 100
+network 1.1.2.0 mask 255.255.255.0
+```
+
+<br/><br/>
+
+
+R3)<br/>
+
+```yaml
+router bgp 100
+bgp router-id 1.1.3.3
+neighbor 1.1.23.2 remote-as 100
+neighbor 1.1.34.4 remote-as 100
+network 1.1.3.0 mask 255.255.255.0
+```
+
+<br/><br/>
+
+
+R4)<br/>
+
+```yaml
+router bgp 100
+bgp router-id 1.1.4.4
+neighbor 1.1.34.3 remote-as 100
+network 1.1.4.0 mask 255.255.255.0
+```
+
+<br/><br/>
+
+### Split Horizon 법칙<br/>
