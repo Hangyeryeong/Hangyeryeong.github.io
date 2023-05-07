@@ -11,7 +11,7 @@ toc_sticky: true
 date: 2023-04-26
 last_modified_at: 2023-04-26
 
-#img: ":aws 1.png"
+img: ":GCP1.png"
 
 ---
 
